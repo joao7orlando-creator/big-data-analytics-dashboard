@@ -1,5 +1,4 @@
 # 📊 Projeto Big Data & Analytics — Dashboard de Vendas
-![Dashboard de Vendas](dashboard.png)
 
 ## 📌 Sobre o projeto
 
@@ -200,7 +199,7 @@ O projeto foi desenvolvido com foco em **experiência prática e portfólio prof
 
 ## 📸 Dashboard
 
-> **Adicionar aqui uma imagem ou captura de tela do dashboard final.**
+![Dashboard de Vendas](dashboard.png)
 
 Exemplo:
 
