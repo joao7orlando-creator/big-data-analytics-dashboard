@@ -1,5 +1,5 @@
 # 📊 Projeto Big Data & Analytics — Dashboard de Vendas
-![Dashboard de Vendas](images/dashboard_de_vendas.jpg)
+![Dashboard de Vendas](images/dashboard.png)
 
 ## 📌 Sobre o projeto
 
