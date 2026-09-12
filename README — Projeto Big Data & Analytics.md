@@ -217,21 +217,6 @@ Exemplo:
 
 ---
 
-## 🔮 Próximos passos
-
-Como evolução do projeto, podem ser implementadas novas funcionalidades, como:
-
-- Automatização da ingestão de novos dados;
-- Criação de pipelines de dados;
-- Desenvolvimento de transformações adicionais utilizando SQL;
-- Análise de crescimento entre períodos;
-- Comparação entre períodos;
-- Criação de métricas de margem e rentabilidade;
-- Integração com novas fontes de dados;
-- Evolução para uma arquitetura de dados mais próxima de um ambiente produtivo.
-
----
-
 ## 📚 Aprendizados
 
 Este projeto proporcionou experiência prática com um fluxo completo de análise de dados em nuvem, desde o armazenamento e consulta dos dados até a construção de indicadores e visualizações.
